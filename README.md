@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# INT167 - Implement and Run Business Scenarios at the Edge Using SAP Edge Service
 
 ## Description
 
