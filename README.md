@@ -15,7 +15,8 @@ Throughout the following exercises, you will be working with the following compo
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- You need to have a laptop or PC with a browser
 
 ## Exercises
 
