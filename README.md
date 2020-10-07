@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2020 session 1243 - Imp
 
 ## Overview
 
-This session introduces attendees to SAP Edge Services, a solution that enables powerful microservices to be deployed at the edgebut orchestrated from the cloud to extend the processing power of the cloud to the edge 
+This session introduces attendees to SAP Edge Services, which brings together local compute, persitency and business transactions at the edge.  SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to the edge.  
 
 ## Requirements
 
