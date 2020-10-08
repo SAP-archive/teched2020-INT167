@@ -1,4 +1,4 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Configure SAP Edge Services to Automatically Create Work Order at the Edge Based on IoT Data
 
 In this exercise, we will create...
 
