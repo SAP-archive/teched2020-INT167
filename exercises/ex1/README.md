@@ -1,6 +1,6 @@
 # Exercise 1 - Configure SAP Edge Services
 
-In this exercise, we will create a SAP Edge Services project, with streaming rules based on Iot data, that will automate creating a work order locally at the edge and then synchronized with S/4HANA.
+In this exercise, we will create a SAP Edge Services project.  A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project, which creates a configuration for the Streaming Service with streaming rules based on Iot data, that will automate creating a work order locally at the edge and then synchronized with S/4HANA.
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
