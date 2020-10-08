@@ -21,11 +21,9 @@ After completing these steps you will have created an edge designer project.
 
 4. Enter the following details in the next screen, and click Create.
 <br>Please Note: Throughout the tutorial you must replace XX with your own assigned number<br>
-Field Name | Value
------------------- | ------------------
-Name | TrainingXX
-Description | TrainingXX
-Profile Delimiter	 | >>>
+- Name: __TrainingXX__
+- Description: __TrainingXX__
+- Profile Delimiter:	__>>>__
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
