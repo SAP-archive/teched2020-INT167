@@ -21,9 +21,9 @@ After completing these steps you will have created an edge designer project.
 
 4. Enter the following details in the next screen, and click Create.
 <br>Please Note: Throughout the tutorial you must replace __XX__ with __your own assigned number__<br>
-   Name: __TrainingXX__
-   Description: __TrainingXX__
-   Profile Delimiter: __>>>__
+   - Name: __TrainingXX__
+   - Description: __TrainingXX__
+   - Profile Delimiter: __>>>__
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
