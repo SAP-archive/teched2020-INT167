@@ -20,7 +20,7 @@ After completing these steps you will have created an edge designer project.
    Note: A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project, which creates a configuration for the Streaming Service.
 
 4. Enter the following details in the next screen, and click Create.
-   Please Note
+<br>Please Note
    - 1
    - 2
 
