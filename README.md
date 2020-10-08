@@ -20,23 +20,15 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-The following two exercises are designed to help you gain hands-on experience in building and executing a real-world scenario: Use SAP Edge Services to automatically create a Work Order at a plant based on device IoT sensor data.
+The following two exercises are designed to help you gain hands-on experience in building and executing a real-world scenario: Leverage SAP Edge Services to automatically create a Work Order based on device IoT sensor data at a plant.
 
 - [Exercise 1 - Configure SAP Edge Services](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Deploy and Test SAP Edge Services project to Automatically Create a Work Order](exercises/ex2/)
+- [Exercise 2 - Deploy and Test SAP Edge Services to Automatically Create a Work Order based on IoT Sensor Data](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 
