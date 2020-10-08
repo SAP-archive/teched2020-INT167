@@ -9,7 +9,7 @@ After completing these steps you will have created an edge designer project.
 1. Log onto SAP Edge Services.
 <br>![](/exercises/ex1/images/Ex1_Step1_1.png)
 
-   After logon you will land on the main SAP Edge services screen.
+   Note: After logon you will land on the main SAP Edge services screen.
 
 2. Click the Edge Designer tile.
 <br>![](/exercises/ex1/images/Ex1_Step1_2.png)
@@ -17,10 +17,12 @@ After completing these steps you will have created an edge designer project.
 3. Click + to add a new project.
 <br>![](/exercises/ex1/images/Ex1_Step1_3.png)
 
-   A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project, which creates a configuration for the Streaming Service.
+   Note: A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project, which creates a configuration for the Streaming Service.
 
-
-
+4. Enter the following details in the next screen, and click Create.
+   Please Note
+   - 1
+   - 2
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
