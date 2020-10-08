@@ -22,7 +22,7 @@ The requirements to follow the exercises in this repository are:
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
+- [Exercise 1 - Configure SAP Edge Services to Automatically Create Work Order at the Edge Based on IoT Data](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
