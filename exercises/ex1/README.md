@@ -7,14 +7,12 @@ In Exercise 1, we will create a SAP Edge Services project.  A project is an aggr
 After completing these steps you will have created an edge designer project.
 
 1. Log onto SAP Edge Services.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+<br>![](/exercises/ex1/images/Ex1_Step1_1.png)
 
 After logon you will land on the main SAP Edge services screen.
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+2. Click the Edge Designer tile.
+<br>![](/exercises/ex1/images/Ex1_Step1_2.png)
 
 
 
@@ -37,7 +35,9 @@ READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
 2.	Click here.
 <br>![](/exercises/ex1/images/01_02_0010.png)
 
-
+```abap
+response->set_text( |Hello World! | ). 
+```
 ## Summary
 
 You've now ...
