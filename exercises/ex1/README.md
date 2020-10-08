@@ -2,12 +2,14 @@
 
 In Exercise 1, we will create a SAP Edge Services project.  A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project to create a configuration for the Streaming Service.      After you complete Exercise 1, you will then move to Exercise 2 to deploy such streaming service configuation on the gateway to automatically trigger the cretion of a work order based on live IoT sensor data.
 
-## Exercise 1.1 Sub Exercise 1 Description
+## Exercise 1.1 Create an Edge Designer Project
 
-After completing these steps you will have created...
+After completing these steps you will have created an edge designer project.
 
-1. Click here.
+1. Log onto SAP Edge Services.
 <br>![](/exercises/ex1/images/01_01_0010.png)
+
+After logon you will land on the main SAP Edge services screen.
 
 2.	Insert this line of code.
 ```abap
