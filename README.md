@@ -20,12 +20,12 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+The following two exercises are designed to help you gain hands-on experience in building and executing an end-to-end scenario: Use SAP Edge Services to automatically create a Plant Maitenance Work Order based on IoT sensor data.
 
-- [Exercise 1 - Configure SAP Edge Services to Automatically Create Work Order at the Edge Based on IoT Data](exercises/ex1/)
+- [Exercise 1 - Configure SAP Edge Services](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
+- [Exercise 2 - Deploy and Test SAP Edge Services project to Automatically Create a Work Order](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
