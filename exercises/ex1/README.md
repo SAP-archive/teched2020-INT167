@@ -1,6 +1,6 @@
 # Exercise 1 - Configure SAP Edge Services
 
-In this exercise, we will create...
+In this exercise, we will create a
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
