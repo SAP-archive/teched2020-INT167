@@ -14,7 +14,7 @@ After completing these steps you will have created an edge designer project.
 2. Click the Edge Designer tile.
 <br>![](/exercises/ex1/images/Ex1_Step1_2.png)
 
-3. Click + to add a new project.
+3. Click __+__ to add a new project.
 <br>![](/exercises/ex1/images/Ex1_Step1_3.png)
 
    Note: A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project, which creates a configuration for the Streaming Service.
@@ -26,23 +26,15 @@ After completing these steps you will have created an edge designer project.
    - Profile Delimiter: __>>>__
 <br>![](/exercises/ex1/images/Ex1_Step1_4.png)
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Exercise 1.2 Add data model to project
 
 After completing these steps you will have...
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+1.	Click __Data Model__, and then press __+__.
+<br>![](/exercises/ex1/images/Ex2_Step1_1.png)
+In SAP IoT, we have already defined a sensor type __Boiler__, which you are going to use in this project. The Boiler sensor type has two capabilities: __Temperature__ and __Pressure__
 
-```
-
-2.	Click here.
+2.	Select the following values from the dropdown, and then click __Create__:
 <br>![](/exercises/ex1/images/01_02_0010.png)
 
 ```abap
