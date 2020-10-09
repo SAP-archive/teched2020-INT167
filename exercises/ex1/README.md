@@ -2,7 +2,7 @@
 
 In Exercise 1, we will create a SAP Edge Services project.  A project is an aggregation of entities such as sensor models, rules, rule data sources, actions, connectors, and runtime settings where you can define and manage each entity and publish the project to create a configuration for the Streaming Service.      After you complete Exercise 1, you will then move to Exercise 2 to deploy such streaming service configuation on the gateway to automatically trigger the cretion of a work order based on live IoT sensor data.
 
-## Exercise 1.1 Create an Edge Designer Project
+## Step 1.1 Create an Edge Designer Project
 
 After completing these steps you will have created an edge designer project.
 
@@ -26,7 +26,7 @@ After completing these steps you will have created an edge designer project.
    - Profile Delimiter: __>>>__
 <br>![](/exercises/ex1/images/Ex1_Step1_4.png)
 
-## Exercise 1.2 Add data model to project
+## Step 1.2 Add data model to project
 
 After completing these steps you will have...
 
@@ -43,7 +43,12 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
 3. Fidelity enables you to configure the SAP Edge Services to selectively send IoT data to cloud (or other target applications) or save at the edge in the configured time interval.
 
    To set fidelity, select your data model and click __Fidelity__.
-<br>![](/exercises/ex1/images/Ex1_Step2_3.png)
+<br>![](/exercises/ex1/images/Ex1_Step2_3_1.png)
+
+   <br>Set the __Edge Fidelity__ and the __Outbound Fidelity__ to __Enabled__, and enable __IoT Service Cloud Connector__.
+
+   <br>Click __Save__.
+<br>![](/exercises/ex1/images/Ex1_Step2_3_2.png)   
 
 ## Summary
 
