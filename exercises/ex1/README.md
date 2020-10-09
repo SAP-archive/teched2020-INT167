@@ -45,7 +45,7 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
    To set fidelity, select your data model and click __Fidelity__.
 <br>![](/exercises/ex1/images/Ex1_Step2_3_1.png)
 
-   <br>Set the __Edge Fidelity__ and the __Outbound Fidelity__ to __Enabled__, and enable __IoT Service Cloud Connector__.
+   Set the __Edge Fidelity__ and the __Outbound Fidelity__ to __Enabled__, and enable __IoT Service Cloud Connector__.
 
    <br>Click __Save__.
 <br>![](/exercises/ex1/images/Ex1_Step2_3_2.png)   
