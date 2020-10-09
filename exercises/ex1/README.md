@@ -28,7 +28,7 @@ After completing these steps you will have created an edge designer project.
 
 ## Step 1.2 Add data model to project
 
-After completing these steps you will have...
+After completing these steps you will have added data model to the project you just created.
 
 1.	Click __Data Model__, and then press __+__.
 <br>![](/exercises/ex1/images/Ex1_Step2_1.png)
@@ -53,6 +53,12 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
 4. Click __Validate__ at the top-right.
    <br>After a successful validation your screen should look like this:
 <br>![](/exercises/ex1/images/Ex1_Step2_4.png)   
+
+## Step 1.3 Define action
+
+After completing these steps you will have defined an action that will trigger the creation of the work order. The action will be triggered by a streaming rule that will be created later.
+
+
 
 ## Summary
 
