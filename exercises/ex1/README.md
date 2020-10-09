@@ -31,15 +31,20 @@ After completing these steps you will have created an edge designer project.
 After completing these steps you will have...
 
 1.	Click __Data Model__, and then press __+__.
-<br>![](/exercises/ex1/images/Ex2_Step1_1.png)
+<br>![](/exercises/ex1/images/Ex1_Step2_1.png)
 In SAP IoT, we have already defined a sensor type __Boiler__, which you are going to use in this project. The Boiler sensor type has two capabilities: __Temperature__ and __Pressure__
 
 2.	Select the following values from the dropdown, and then click __Create__:
-<br>![](/exercises/ex1/images/01_02_0010.png)
+   - Sensor Type: __Boiler__
+   - Capability Name: __BoilerTraining__
+   - Temperature: __Check Box Checked__
+<br>![](/exercises/ex1/images/Ex1_Step2_2.png)
 
-```abap
-response->set_text( |Hello World! | ). 
-```
+3. Fidelity enables you to configure the SAP Edge Services to selectively send IoT data to cloud (or other target applications) or save at the edge in the configured time interval.
+
+   To set fidelity, select your data model and click __Fidelity__.
+<br>![](/exercises/ex1/images/Ex1_Step2_3.png)
+
 ## Summary
 
 You've now ...
