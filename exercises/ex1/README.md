@@ -50,6 +50,10 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
    <br>Click __Save__.
 <br>![](/exercises/ex1/images/Ex1_Step2_3_2.png)   
 
+4. Click __Validate__ at the top-right.
+   <br>After a successful validation your screen should look like this:
+<br>![](/exercises/ex1/images/Ex1_Step2_4.png)   
+
 ## Summary
 
 You've now ...
