@@ -58,7 +58,24 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
 
 After completing these steps you will have defined an action that will trigger the creation of the work order. The action will be triggered by a streaming rule that will be created later.
 
+1. Select __Actions__, and then click __+__ to the right.
+<br>![](/exercises/ex1/images/Ex1_Step3_1.png)   
 
+2. Enter the following values for your action, and then click __Save__.
+   - Action Name: __Create Work Order__
+   - Description: __Create Work Order__
+   - Action Type: Select from Drop Down __Create Work Order__
+   - Device ID: __${deviceId}__
+   - Subject: __${deviceId} : Temperature too high__
+   - Remarks: __${deviceId} : Temperature too high__
+   - Main Work Center: __RES-0100__
+<br>![](/exercises/ex1/images/Ex1_Step3_2.png) 
+
+## Step 1.4 Define rule
+
+After completing these steps you will have defined a rule that will trigger the action we created in the previous step.
+
+1, Click Rules, and then click +.
 
 ## Summary
 
