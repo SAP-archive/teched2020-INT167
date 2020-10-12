@@ -37,7 +37,6 @@ After completing these steps you will have added data model to the project you j
 In SAP IoT, we have already defined a sensor type __Boiler__, which you are going to use in this project. The Boiler sensor type has two capabilities: __Temperature__ and __Pressure__
 
 2.	Select the following values from the dropdown, and then click __Create__:
-<br>
    - Sensor Type: __Boiler__
    - Capability Name: __BoilerTraining__
    - Temperature: __Check Box Checked__
@@ -65,6 +64,7 @@ After completing these steps you will have defined an action that will trigger t
 <br>![](/exercises/ex1/images/Ex1_Step3_1.png)   
 
 2. Enter the following values for your action, and then click __Save__.
+   
    - Action Name: __Create Work Order__
    - Description: __Create Work Order__
    - Action Type: Select from Drop Down __Create Work Order__
