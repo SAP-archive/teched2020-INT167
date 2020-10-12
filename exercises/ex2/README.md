@@ -12,27 +12,27 @@ After completing these steps you will have deployed the project you've just crea
    
    Click on __SAP Edge Services Management__.
 
-<br>![](/exercises/ex1/images/Ex2_Step1_1.png)
+<br>![](/exercises/ex2/images/Ex2_Step1_1.png)
 
 2. Select the gateway where you want to deploy your project (Gateway XX).
 
-<br>![](/exercises/ex1/images/Ex2_Step1_2.png)
+<br>![](/exercises/ex2/images/Ex2_Step1_2.png)
 
 3. Select __Configurations__ and click __+__ on the right.
 
-<br>![](/exercises/ex1/images/Ex2_Step1_3.png)
+<br>![](/exercises/ex2/images/Ex2_Step1_3.png)
 
 4. From the dropdown, select __Streaming Service__, for __Configuration__ select your published project, and then click __Apply__.
 
    If you followed the naming given in the first part of the tutorial, it should be named something like __TrainingXX-v__.
 
-<br>![](/exercises/ex1/images/Ex2_Step1_4_1.png)
+<br>![](/exercises/ex2/images/Ex2_Step1_4_1.png)
 
    The configuration will be downloaded to the gateway. This might take a few seconds.
 
    Click the refresh button on the right until you see the configuration status __Applied__.
    
-<br>![](/exercises/ex1/images/Ex2_Step1_4_2.png)   
+<br>![](/exercises/ex2/images/Ex2_Step1_4_2.png)   
 
 ## Step 2.2 Verify deployment in SAP Edge Gateway
 
@@ -45,7 +45,7 @@ After completing these steps you will have verified that the deployment was done
    If you want to use any other browser make sure you import the server certificate into your Keychain Access app
    and modify the certificate trust to Always Trust
 ```
-<br>![](/exercises/ex1/images/Ex2_Step2_1.png)
+<br>![](/exercises/ex2/images/Ex2_Step2_1.png)
     
    A new window will open and you will land on the logon page of the SAP Edge Services gateway.
       
@@ -54,21 +54,21 @@ After completing these steps you will have verified that the deployment was done
    - Name: __admin__
    - Password: __AdminAdmin1__
    
-<br>![](/exercises/ex1/images/Ex2_Step2_2.png)     
+<br>![](/exercises/ex2/images/Ex2_Step2_2.png)     
 
 3. You should see a Sensor Profile named __BoilerTraining>>>2...3>>>Boiler ...__
 
    Please verify that both rules are enabled.
 
-<br>![](/exercises/ex1/images/Ex2_Step2_3_1.png)   
+<br>![](/exercises/ex2/images/Ex2_Step2_3_1.png)   
 
    Under __Actions__, you should see your action __Create Work Order__.
 
-<br>![](/exercises/ex1/images/Ex2_Step2_3_2.png)   
+<br>![](/exercises/ex2/images/Ex2_Step2_3_2.png)   
 
    Finally, verify under __Runtime Settings__ that you have unchecked the __Validate HTTPS Certificates__ flag.
 
-<br>![](/exercises/ex1/images/Ex2_Step2_3_3.png)  
+<br>![](/exercises/ex2/images/Ex2_Step2_3_3.png)  
 
 ## Step 2.3 Simulate device
 
@@ -80,7 +80,7 @@ We will use this functionality to trigger the rule that we created in the previo
 
 2. Check the option __Stream Reading to Monitor__, and click __Save__.
 
-<br>![](/exercises/ex1/images/Ex2_Step3_2.png)  
+<br>![](/exercises/ex2/images/Ex2_Step3_2.png)  
 
 3. Now simulate sensor readings by doing the following:
 
@@ -92,7 +92,7 @@ We will use this functionality to trigger the rule that we created in the previo
 
    Remember that we defined a rule that will trigger when the temperature exceeds 80.
 
-<br>![](/exercises/ex1/images/Ex2_Step3_3.png)  
+<br>![](/exercises/ex2/images/Ex2_Step3_3.png)  
 
 ## Step 2.4 Trigger rule and create work order
 
@@ -102,13 +102,13 @@ After completing these steps you will have triggered the rules and created a Wor
 
    You can now pause the emulator by pressing the Pause button.
 
-<br>![](/exercises/ex1/images/Ex2_Step4_1.png) 
+<br>![](/exercises/ex2/images/Ex2_Step4_1.png) 
 
 2. Now check if the temperature increase has triggered an event.
 
    Select __Events__ on the left sidebar. You should see an event called __Check Temperature__
    
-<br>![](/exercises/ex1/images/Ex2_Step4_2_1.png) 
+<br>![](/exercises/ex2/images/Ex2_Step4_2_1.png) 
 
    The event __Check Temperature__ will trigger the action __Create Work Order__.
    
@@ -116,7 +116,7 @@ After completing these steps you will have triggered the rules and created a Wor
    
    This is how the Work Order would look like:
 
-<br>![](/exercises/ex1/images/Ex2_Step4_2_2.png) 
+<br>![](/exercises/ex2/images/Ex2_Step4_2_2.png) 
    
 
 ## Summary
