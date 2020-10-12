@@ -41,6 +41,7 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
    - Sensor Type: __Boiler__
    - Capability Name: __BoilerTraining__
    - Temperature: __Check Box Checked__
+ 
 <br>![](/exercises/ex1/images/Ex1_Step2_2.png)
 
 3. Fidelity enables you to configure the SAP Edge Services to selectively send IoT data to cloud (or other target applications) or save at the edge in the configured time interval.
