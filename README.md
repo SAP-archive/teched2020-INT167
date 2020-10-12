@@ -29,9 +29,9 @@ The following two exercises are designed to help you gain hands-on experience in
     - [Step 1.4 - Define rule](exercises/ex1#step-14-Define-rule)
     - [Step 1.5 - Define runtime settings](exercises/ex1#step-15-Define-runtime-settings)
     - [Step 1.6 - Define connector settings](exercises/ex1#step-16-Define-connector-settings)
+    - [Step 1.7 - Publish project](exercises/ex1#step-17-Publish-project)
 - [Exercise 2 - Deploy and Test SAP Edge Services to Automatically Create a Work Order based on IoT Sensor Data](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+    - [Step 2.1 - Deploy project to gateway](exercises/ex2#step-21-Deploy-project-to-gateway)
 
 
 **IMPORTANT**
