@@ -116,7 +116,23 @@ After completing these steps you will have defined a rule that will trigger the 
 After completing these steps you will connect your gateway to a central edge gateway (EBF service), which is configured to create the work order in S/4HANA.
 
 1. Select your project from the navigation.
+<br>![](/exercises/ex1/images/Ex1_Step5_1.png)
 
+2. Click __Runtime Settings__, and then click the pencil icon.
+<br>![](/exercises/ex1/images/Ex1_Step5_2_1.png)
+
+   In runtime settings, enter the following values, and then click __Save__.
+   - Enable EBF Configurations: __On__
+   - Host Name: __https://3.123.194.136__
+   - Port: __8443__
+   - Authentication (Base64): __RUJFRjpJbml0aWFs__
+   - Validate Certificates	: __Unchecked__
+   
+   The last 4 values will only be display if you __Enable EBF Configurations__.
+<br>![](/exercises/ex1/images/Ex1_Step5_2_2.png)
+
+   Your screen should look like this now.
+<br>![](/exercises/ex1/images/Ex1_Step5_2_3.png)   
 
 ## Summary
 
