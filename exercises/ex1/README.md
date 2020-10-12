@@ -139,7 +139,7 @@ After completing these steps you will connect your gateway to a central edge gat
    Your screen should look like this now.
 <br>![](/exercises/ex1/images/Ex1_Step5_2_3.png)   
 
-## Step 1.6 Define runtime settings
+## Step 1.6 Define connector settings
 
 After completing these steps you will chave defined runtime settings.
 
