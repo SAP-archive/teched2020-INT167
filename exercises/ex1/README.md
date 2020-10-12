@@ -75,7 +75,7 @@ After completing these steps you will have defined an action that will trigger t
 
 After completing these steps you will have defined a rule that will trigger the action we created in the previous step.
 
-1, Click Rules, and then click +.
+1. Click ————Rules, and then click +.
 
 ## Summary
 
