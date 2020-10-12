@@ -134,9 +134,31 @@ After completing these steps you will connect your gateway to a central edge gat
    Your screen should look like this now.
 <br>![](/exercises/ex1/images/Ex1_Step5_2_3.png)   
 
+## Step 1.6 Define runtime settings
+
+After completing these steps you will chave defined runtime settings.
+
+Go to __Connectors__ and select __HTTP Inbound Connector__.
+<br>![](/exercises/ex1/images/Ex1_Step6_1.png)
+
+Use the pencil icon to change the values of the following configuration parameters:
+   - Authentication Type: __None__
+   - Secure only: __false__
+<br>![](/exercises/ex1/images/Ex1_Step6_2.png)   
+
+## Step 1.7 Publish project
+
+After completing these steps you will chave performed a final validation of the project, and then published the project so it can be deployed to the gateways.
+
+Click __Validate__ on the top-right.
+<br>![](/exercises/ex1/images/Ex1_Step7_1.png)   
+
+Publish it with a configuration name that you can later find, like Training-XX-V1.
+<br>![](/exercises/ex1/images/Ex1_Step7_2.png)     
+
 ## Summary
 
-You've now ...
+You've now defined and validated an edge designer project.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
