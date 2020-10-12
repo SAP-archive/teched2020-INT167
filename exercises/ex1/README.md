@@ -75,7 +75,38 @@ After completing these steps you will have defined an action that will trigger t
 
 After completing these steps you will have defined a rule that will trigger the action we created in the previous step.
 
-1. Click ————Rules, and then click +.
+1. Click __Rules__, and then click __+__.
+<br>![](/exercises/ex1/images/Ex1_Step4_1.png)
+
+2. Add the following values to the rule definition, and then click __Create__
+   - Name: __Check Temperature__
+   - Description: __Check Temperature rule__
+   - Send Edge Event: __enabled__
+<br>![](/exercises/ex1/images/Ex1_Step4_2.png)
+
+3. Select the rule by clicking its name.
+<br>![](/exercises/ex1/images/Ex1_Step4_3.png)
+
+4. Click __Conditions__.
+<br>![](/exercises/ex1/images/Ex1_Step4_4.png)
+
+5. Click __+__ to add a condition.
+<br>![](/exercises/ex1/images/Ex1_Step4_5.png)
+
+6. Add the following values to the condition, and then click __Create__.
+   - Name: __temperature over 80__
+   - Filter: __Any__
+   - Condition Type: __Value monitoring__
+   - Data Model Name: __Boiler>>>BoilerTraining>>>Temperature__
+   - Operator: __>__
+   - Threshold Value: __80__   
+<br>![](/exercises/ex1/images/Ex1_Step4_6.png)
+
+7. Click __Outputs__, and then click __+__ to define what should be triggered if this rule is true.
+<br>![](/exercises/ex1/images/Ex1_Step4_7.png)
+
+8. For Output Type, select Action, and then enter Create Work Order, and then click Create.
+
 
 ## Summary
 
