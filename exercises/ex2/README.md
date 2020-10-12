@@ -40,12 +40,13 @@ After completing these steps you will have verified that the deployment was done
 
 1.	Go to __General Settings__ of your gateway, and click the __Edge Console URL__.
 
-    __Important Note for Mac Users__ : Use the Safari browser for this part of the exercise. If you want to use any other browser make sure you import the server certificate into your Keychain Access app and modify the certificate trust to __Always Trust__
-
-<br>![](/exercises/ex1/images/Ex2_Step2_1.png)   
-
-    A new window will open and you will land on the logon page of the SAP Edge Services gateway.
+```
+   __Important Note for Mac Users__ : Use the Safari browser for this part of the exercise. If you want to use any other browser make sure you import the server certificate into your Keychain Access app and modify the certificate trust to __Always Trust__
+```
+<br>![](/exercises/ex1/images/Ex2_Step2_1.png)
     
+   A new window will open and you will land on the logon page of the SAP Edge Services gateway.
+      
 2. Log on with the following credentials:
 
    - Name: __admin__
