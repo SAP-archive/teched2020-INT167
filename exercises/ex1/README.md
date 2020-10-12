@@ -160,5 +160,5 @@ Publish it with a configuration name that you can later find, like Training-XX-V
 
 You've now defined and validated an edge designer project.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Deploy and Test SAP Edge Services to Automatically Create a Work Order based on IoT Sensor Data](../ex2/README.md)
 
