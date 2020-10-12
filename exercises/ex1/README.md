@@ -24,6 +24,7 @@ After completing these steps you will have created an edge designer project.
    - Name: __TrainingXX__
    - Description: __TrainingXX__
    - Profile Delimiter: __>>>__
+
 <br>![](/exercises/ex1/images/Ex1_Step1_4.png)
 
 ## Step 1.2 Add data model to project
@@ -35,6 +36,7 @@ After completing these steps you will have added data model to the project you j
 In SAP IoT, we have already defined a sensor type __Boiler__, which you are going to use in this project. The Boiler sensor type has two capabilities: __Temperature__ and __Pressure__
 
 2.	Select the following values from the dropdown, and then click __Create__:
+<br>
    - Sensor Type: __Boiler__
    - Capability Name: __BoilerTraining__
    - Temperature: __Check Box Checked__
@@ -47,7 +49,7 @@ In SAP IoT, we have already defined a sensor type __Boiler__, which you are goin
 
    Set the __Edge Fidelity__ and the __Outbound Fidelity__ to __Enabled__, and enable __IoT Service Cloud Connector__.
 
-   <br>Click __Save__.
+   Click __Save__.
 <br>![](/exercises/ex1/images/Ex1_Step2_3_2.png)   
 
 4. Click __Validate__ at the top-right.
