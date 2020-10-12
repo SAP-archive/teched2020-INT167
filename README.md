@@ -23,8 +23,8 @@ The requirements to follow the exercises in this repository are:
 The following two exercises are designed to help you gain hands-on experience in building and executing a real-world scenario: Leverage SAP Edge Services to automatically create a Work Order based on device IoT sensor data at a plant.
 
 - [Exercise 1 - Configure SAP Edge Services](exercises/ex1/)
-    - [Step 1.1 - Configure SAP Edge Services](exercises/ex1#step-11-create-an-edge-designer-project)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Step 1.1 - Create an Edge Designer Project](exercises/ex1#step-11-create-an-edge-designer-project)
+    - [Step 1.2 - Add data model to project](exercises/ex1#step-12-Add-data-model-to-project)
 - [Exercise 2 - Deploy and Test SAP Edge Services to Automatically Create a Work Order based on IoT Sensor Data](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
