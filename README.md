@@ -37,10 +37,6 @@ The following two exercises are designed to help you gain hands-on experience in
     - [Step 2.4 - Trigger rule and create work order](exercises/ex2#step-24-Trigger-rule-and-create-work-order)
     
     
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
