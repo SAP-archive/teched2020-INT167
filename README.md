@@ -34,7 +34,7 @@ The following two exercises are designed to help you gain hands-on experience in
     - [Step 2.1 - Deploy project to gateway](exercises/ex2#step-21-Deploy-project-to-gateway)
     - [Step 2.2 - Verify deployment in SAP Edge Gateway](exercises/ex2#step-22-Verify-deployment-in-SAP-Edge-Gateway)
     - [Step 2.3 - Simulate device](exercises/ex2#step-23-Verify-Simulate-device)
-    - [Step 2.4 - Simulate device](exercises/ex2#step-24-Trigger-rule-and-create-work-order)
+    - [Step 2.4 - Trigger rule and create work order](exercises/ex2#step-24-Trigger-rule-and-create-work-order)
     
     
 **IMPORTANT**
