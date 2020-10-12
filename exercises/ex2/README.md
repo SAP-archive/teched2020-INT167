@@ -76,10 +76,50 @@ After completing these steps you will have tested end-to-end rule logic using th
 
 We will use this functionality to trigger the rule that we created in the previous tutorial. This rule will trigger the creation of the work order.
 
-1. 
+1. Select the __Sensor Profiles__ option on the left and then your sensor profile.
 
+2. Check the option __Stream Reading to Monitor__, and click __Save__.
+
+<br>![](/exercises/ex1/images/Ex2_Step3_2.png)  
+
+3. Now simulate sensor readings by doing the following:
+
+   - Select __Live Sensors__ on the left sidebar.
+   - Enter __Student_X__ as the device under __Device ID__ , e.g. Student_2.
+   - Click the play button.
+   
+   You can move the slider to increase and decrease the value of the reading but keep it under 80 for now. The simulated values will start populating the screen.
+
+   Remember that we defined a rule that will trigger when the temperature exceeds 80.
+
+<br>![](/exercises/ex1/images/Ex2_Step3_3.png)  
+
+## Step 2.4 Trigger rule and create work order
+
+After completing these steps you will have triggered the rules and created a Work Order 
+
+1. Move the slider to the right until it reaches a value over 80. Wait until you have 2 readings and slide the value back to under 80.
+
+   You can now pause the emulator by pressing the Pause button.
+
+<br>![](/exercises/ex1/images/Ex2_Step4_1.png) 
+
+2. Now check if the temperature increase has triggered an event.
+
+   Select __Events__ on the left sidebar. You should see an event called __Check Temperature__
+   
+<br>![](/exercises/ex1/images/Ex2_Step4_2_1.png) 
+
+   The event __Check Temperature__ will trigger the action __Create Work Order__.
+   
+   If the order was created, it can only be verified in the EBF system.
+   
+   This is how the Work Order would look like:
+
+<br>![](/exercises/ex1/images/Ex2_Step4_2_2.png) 
+   
 
 ## Summary
 
-You've now ...
+You've now completed exercices of using SAP Edge Services to automatically create Work Order based on IoT data at the edge 
 
