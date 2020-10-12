@@ -105,7 +105,17 @@ After completing these steps you will have defined a rule that will trigger the 
 7. Click __Outputs__, and then click __+__ to define what should be triggered if this rule is true.
 <br>![](/exercises/ex1/images/Ex1_Step4_7.png)
 
-8. For Output Type, select Action, and then enter Create Work Order, and then click Create.
+8. For __Output Type__, select __Action__, and then enter __Create Work Order__, and then click __Create__.
+<br>![](/exercises/ex1/images/Ex1_Step4_8.png)
+
+9. Click __Enable__ on the top-right to enable the rule.
+<br>![](/exercises/ex1/images/Ex1_Step4_9.png)
+
+## Step 1.5 Define runtime settings
+
+After completing these steps you will connect your gateway to a central edge gateway (EBF service), which is configured to create the work order in S/4HANA.
+
+1. Select your project from the navigation.
 
 
 ## Summary
