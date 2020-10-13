@@ -106,11 +106,9 @@ After completing these steps you will have triggered the rules and created a Wor
 
 2. Now check if the temperature increase has triggered an event.
 
-   Select __Events__ on the left sidebar. You should see an event called __Check Temperature__
+   Select __Events__ on the left sidebar. You should see an event called __Check Temperature__ (The event __Check Temperature__ will trigger the action __Create Work Order__).
    
-<br>![](/exercises/ex2/images/Ex2_Step4_2_1.png) 
-
-   The event __Check Temperature__ will trigger the action __Create Work Order__.
+<br>![](/exercises/ex2/images/Ex2_Step4_2_1.png)   
    
 3. Verify the Work Order has been created.
 
