@@ -112,9 +112,22 @@ After completing these steps you will have triggered the rules and created a Wor
 
    The event __Check Temperature__ will trigger the action __Create Work Order__.
    
-   If the order was created, it can only be verified in the EBF system.
+3. Verify the Work Order has been created.
+
+   Log onto sample edge application for Essential Business Functions: https://ec2-100-24-131-108.compute-1.amazonaws.com:9443/dep/fiori2#Shell-home
    
-   This is how the Work Order would look like:
+   - User: __EBEF__
+   - Password: __Initial__
+
+<br>![](/exercises/ex2/images/Ex2_Step4_3_1.png) 
+
+   Click the tile __Work Orders__ (under the tab "Plant Maitenance")
+
+<br>![](/exercises/ex2/images/Ex2_Step4_3_2.png)   
+   
+   Select the newly generated work order at the top of the list 
+
+<br>![](/exercises/ex2/images/Ex2_Step4_3_2.png)   
 
 <br>![](/exercises/ex2/images/Ex2_Step4_2_2.png) 
    
