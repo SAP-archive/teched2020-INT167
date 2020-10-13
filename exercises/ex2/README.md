@@ -125,11 +125,11 @@ After completing these steps you will have triggered the rules and created a Wor
    
    Click the newly generated work order at the top of the list 
 
-<br>![](/exercises/ex2/images/Ex2_Step4_3_2.png) 
+<br>![](/exercises/ex2/images/Ex2_Step4_3_3.png) 
 
    You work order should look like this
 
-<br>![](/exercises/ex2/images/Ex2_Step4_3_3.png) 
+<br>![](/exercises/ex2/images/Ex2_Step4_3_4.png) 
    
 
 ## Summary
