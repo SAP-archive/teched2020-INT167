@@ -56,7 +56,7 @@ After completing these steps you will have verified that the deployment was done
    
 <br>![](/exercises/ex2/images/Ex2_Step2_2.png)     
 
-3. You should see a Sensor Profile named __BoilerTraining>>>2...3>>>Boiler ...__
+3. You should see a Sensor Profile named __BoilerTraining>>>3>>>Boiler ...__
 
    Please verify that both rules are enabled.
 
