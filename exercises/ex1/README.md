@@ -130,8 +130,8 @@ After completing these steps you will connect your gateway to a central edge gat
 
    In runtime settings, enter the following values, and then click __Save__.
    - Enable EBF Configurations: __On__
-   - Host Name: __https://3.123.194.136__
-   - Port: __8443__
+   - Host Name: __https://100.24.131.108__
+   - Port: __9443__
    - Authentication (Base64): __RUJFRjpJbml0aWFs__
    - Validate Certificates	: __Unchecked__
    
