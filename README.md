@@ -14,7 +14,7 @@ This session introduces attendees to SAP Edge Services, which brings together lo
   - Decisions based on sensor data have to be made in real-time, i.e. crane collision detection and reaction can not wait for round trip latency to the Cloud
 <br>![](/exercises/ex0/images/Ex0_1.png)  
  
-- SAP Edge Service solution offering:
+- SAP Edge Services - Solution Capabilities:
   - SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to an edge location.   
   - The following diagram illutrates the core services provided by SAP Edge Services, some of which you will be working with throughout the exercises
     - __Policy Service__, which provides orchestration & lifecycle management of edge services from the cloud
