@@ -157,7 +157,7 @@ Go to tab __Optional Parameters__, then use the pencil icon to change the values
 
 After completing these steps you will chave performed a final validation of the project, and then published the project so it can be deployed to the gateways.
 
-First back to your project.
+First go back to your project.
 <br>![](/exercises/ex1/images/Ex1_Step7_1.png) 
 
 Then click __Validate__ on the top-right.
