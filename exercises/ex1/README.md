@@ -152,7 +152,8 @@ Go to tab __Optional Parameters__, then use the pencil icon to change the values
    - Authentication Type: __None__
    - Secure Only: __false__
 ```
-In case you don't see parameter "Secure only", you need to drag the pane downwards to reveal the full list of optional parameters.
+In case you don't see parameter "Secure only", you need to drag the pane downwards to reveal 
+the full list of optional parameters.
 ```
 <br>![](/exercises/ex1/images/Ex1_Step6_2.png)   
 <br>![](/exercises/ex1/images/Ex1_Step6_3.png) 
