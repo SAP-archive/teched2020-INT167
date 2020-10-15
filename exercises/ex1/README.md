@@ -150,8 +150,12 @@ Go to __Connectors__ and select __HTTP Inbound Connector__.
 
 Go to tab __Optional Parameters__, then use the pencil icon to change the values of the following configuration parameters:
    - Authentication Type: __None__
-   - In case you see optional parameter "Secure only", its value should be set to __false__
+   - Secure only: __false__
+```
+In case you don't see parameter "Secure only", you need to drag the pane downwards to reveal the full list of optional parameters.
+```
 <br>![](/exercises/ex1/images/Ex1_Step6_2.png)   
+<br>![](/exercises/ex1/images/Ex1_Step6_3.png) 
 
 ## Step 1.7 Publish project
 
