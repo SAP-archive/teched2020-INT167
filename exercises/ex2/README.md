@@ -28,7 +28,7 @@ After completing these steps you will have deployed the project you've just crea
 
 <br>![](/exercises/ex2/images/Ex2_Step1_4_1.png)
 
-   The configuration will be downloaded to the gateway. This might take a few seconds.
+   The configuration will be downloaded to the gateway. This might take a few minutes, just wait until the "Add Configuration" pop up is dismissed.
 
    Click the refresh button on the right until you see the configuration status __Applied__.
    
