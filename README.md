@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2020 session 1243 - Imp
 
 This session introduces attendees to SAP Edge Services, which brings together local compute, persitency and business transactions at the edge.  
 - Value Drivers for Edge Computing: 
--- It describes the capability of processing, storing, and analyzing sensor data, closer to the source of data, to enable faster decision-making and to operate with intermittent connectivity to the cloud.  
+  - It describes the capability of processing, storing, and analyzing sensor data, closer to the source of data, to enable faster decision-making and to operate with intermittent connectivity to the cloud.  
 
 SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to an edge location.   An edge location could be a remote oil rig, a mining site, a moving vessel or a manufacturing plant, where edge services are deployed at edge gateways to allow local compute, local persistency and local execution of business transactions.
 <br>![](/exercises/ex0/images/Ex0_1.png)
