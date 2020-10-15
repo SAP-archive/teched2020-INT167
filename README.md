@@ -7,11 +7,13 @@ This repository contains the material for the SAP TechEd 2020 session 1243 - Imp
 ## Overview
 
 This session introduces attendees to SAP Edge Services, which brings together local compute, persitency and business transactions at the edge.  SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to an edge location.   An edge location could be a remote oil rig, a mining site, a moving vessel or a manufacturing plant, where edge services are deployed at edge gateways to allow local compute, local persisteny and local business transaction execution.
+<br>![](/exercises/ex0/images/Ex0_1.png)
 
 Throughout the following exercises, you will be working with the following components of SAP Edge Services:
 - Policy Service, which provides orchestration & lifecycle management of edge services from the cloud
 - Streaming Service, which analyzes IoT data streams in real-time based on business logic
 - Essential Business Functions Service, which provides business context (data and processes) at the edge despite challenges of connectivity, latency or bandwidth.
+<br>![](/exercises/ex0/images/Ex0_2.png)
 
 ## Requirements
 
