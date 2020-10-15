@@ -17,11 +17,11 @@ This session introduces attendees to SAP Edge Services, which brings together lo
 - SAP Edge Service solution offering:
   - SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to an edge location.   
   - The following diagram illutrates the core services provided by SAP Edge Services, some of which you will be working with throughout the exercises
-    - Policy Service, which provides orchestration & lifecycle management of edge services from the cloud
-    - Streaming Service, which analyzes IoT data streams in real-time based on business logic
-    - Essential Business Functions Service, which provides business context (data and processes) at the edge despite challenges of connectivity, latency or bandwidth.
-    - Persistence Service, which provides local storage of IoT data on IoT gateways
-    - Custom Edge Services, e.g. Predictive Analytics Service, which can be deployed and executed at the edge gateway
+    - __Policy Service__, which provides orchestration & lifecycle management of edge services from the cloud
+    - __Streaming Service__, which analyzes IoT data streams in real-time based on business logic
+    - __Essential Business Functions Service__, which provides business context (data and processes) at the edge despite challenges of connectivity, latency or bandwidth.
+    - __Persistence Service__, which provides local storage of IoT data on IoT gateways
+    - __Custom Edge Services__, e.g. Predictive Analytics Service, which can be deployed and executed at the edge gateway
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ## Requirements
