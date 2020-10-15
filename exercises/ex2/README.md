@@ -30,7 +30,7 @@ After completing these steps you will have deployed the project you've just crea
 
    The configuration will be downloaded to the gateway. This might take a few minutes, just wait until the "Add Configuration" pop up is dismissed.
 
-   Keep clicking the __refresh button__ on the right until you see the configuration status has been changed to __Applied__.
+   Keep clicking the __refresh button__ on the right until you see the configuration status has been changed to __Applied__, this might take another minute or two.
    
 <br>![](/exercises/ex2/images/Ex2_Step1_4_2.png)   
 
