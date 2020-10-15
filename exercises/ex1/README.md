@@ -23,7 +23,7 @@ After completing these steps you will have created an edge designer project.
 
 4. Enter the following details in the next screen, and click Create.
    
-   Note: Throughout the tutorial YOU MUST REPLACE __XX__ with __YOUR OWN ASSIGNED NUMBER__<br>
+   Note: Throughout the exercise, __YOU MUST REPLACE XX__ with __YOUR OWN ASSIGNED NUMBER__<br>
    - Name: __TechEdXX__
    - Description: __TechEdXX__
    - Profile Delimiter: __>>>__
@@ -148,20 +148,23 @@ After completing these steps you will chave defined runtime settings.
 Go to __Connectors__ and select __HTTP Inbound Connector__.
 <br>![](/exercises/ex1/images/Ex1_Step6_1.png)
 
-Use the pencil icon to change the values of the following configuration parameters:
+Go to tab __Optional Parameters__, then use the pencil icon to change the values of the following configuration parameters:
    - Authentication Type: __None__
-   - Secure only: __false__
+   - In case you see optional parameter "Secure only", its value should be set to __false__
 <br>![](/exercises/ex1/images/Ex1_Step6_2.png)   
 
 ## Step 1.7 Publish project
 
 After completing these steps you will chave performed a final validation of the project, and then published the project so it can be deployed to the gateways.
 
-Click __Validate__ on the top-right.
-<br>![](/exercises/ex1/images/Ex1_Step7_1.png)   
+First back to your project.
+<br>![](/exercises/ex1/images/Ex1_Step7_1.png) 
 
-Publish it with a configuration name that you can later find, like Training-XX-V1.
-<br>![](/exercises/ex1/images/Ex1_Step7_2.png)     
+Then click __Validate__ on the top-right.
+<br>![](/exercises/ex1/images/Ex1_Step7_2.png)   
+
+Once successfully validated, publish the project with a configuration name that you can later find, for instance __TechEd-XX-V1__.
+<br>![](/exercises/ex1/images/Ex1_Step7_3.png)     
 
 ## Summary
 
