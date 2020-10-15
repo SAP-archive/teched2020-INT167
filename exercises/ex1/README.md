@@ -163,7 +163,7 @@ First go back to your project.
 Then click __Validate__ on the top-right.
 <br>![](/exercises/ex1/images/Ex1_Step7_2.png)   
 
-Once successfully validated, publish the project with a configuration name that you can later find, for instance __TechEd-XX-V1__.
+Once successfully validated, click __Publish__ on top right to publish the project with a configuration name that you can later find, for instance __TechEd-XX-V1__.
 <br>![](/exercises/ex1/images/Ex1_Step7_3.png)     
 
 ## Summary
