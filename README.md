@@ -12,7 +12,6 @@ This session introduces attendees to SAP Edge Services, which brings together lo
   - Devices and sensors produce more data than what can be (economically) transmitted to the cloud
   - Devices and sensors are in locations with intermittent connectivity, or restricted/costly bandwidth 
   - Decisions based on sensor data have to be made in real-time, i.e. crane collision detection and reaction can not wait for round trip latency to the Cloud
-
 <br>![](/exercises/ex0/images/Ex0_1.png)  
  
 - SAP Edge Service solution offering:
@@ -21,6 +20,8 @@ This session introduces attendees to SAP Edge Services, which brings together lo
     - Policy Service, which provides orchestration & lifecycle management of edge services from the cloud
     - Streaming Service, which analyzes IoT data streams in real-time based on business logic
     - Essential Business Functions Service, which provides business context (data and processes) at the edge despite challenges of connectivity, latency or bandwidth.
+    - Persistence Service, which provides local storage of IoT data on IoT gateways
+    - Custom Edge Services, e.g. Predictive Analytics Service, which can be deployed and executed at the edge gateway
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ## Requirements
