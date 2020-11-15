@@ -24,7 +24,7 @@ After completing these steps you will have deployed the project you've just crea
 
 4. From the dropdown, select __Streaming Service__, for __Configuration__ select your published project, and then click __Apply__.
 
-   If you followed the naming given in the first part of the tutorial, it can be named something like __TechEdXX-V1__, where XX is your two digit ID.  (e.g. TechEd08-V1, Tehced45-V2, etc.)
+   If you followed the naming given in the first part of the tutorial, it can be named something like __TechEdXX-V1__, where XX is your two digit ID.  (e.g. TechEd08-V1, TechEd45-V2, etc.)
 
 <br>![](/exercises/ex2/images/Ex2_Step1_4_1.png)
 
