@@ -24,7 +24,7 @@ After completing these steps you will have deployed the project you've just crea
 
 4. From the dropdown, select __Streaming Service__, for __Configuration__ select your published project, and then click __Apply__.
 
-   If you followed the naming given in the first part of the tutorial, it should be named something like __TechEdXX-V1__.
+   If you followed the naming given in the first part of the tutorial, it can be named something like __TechEdXX-V1__, where XX is your two digit ID.  (e.g. TechEd08-V1, Tehced45-V2, etc.)
 
 <br>![](/exercises/ex2/images/Ex2_Step1_4_1.png)
 
@@ -85,7 +85,7 @@ We will use this functionality to trigger the rule that we created in the previo
 3. Now simulate sensor readings by doing the following:
 
    - Select __Live Sensors__ on the left sidebar.
-   - Enter __Student_X__ as the device under __Device ID__ , e.g. Student_2.
+   - Enter __Device_XX__ as the device under __Device ID__ , were XX is your two digit ID.  e.g. Device_02, Device_18.
    - Click the play button.
    
    You can move the slider to increase and decrease the value of the reading but keep it under 80 for now. The simulated values will start populating the screen.
