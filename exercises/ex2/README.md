@@ -85,7 +85,7 @@ We will use this functionality to trigger the rule that we created in the previo
 3. Now simulate sensor readings by doing the following:
 
    - Select __Live Sensors__ on the left sidebar.
-   - Enter __Device_XX__ as the device under __Device ID__ , were XX is your two digit ID.  e.g. Device_02, Device_18.
+   - Enter __Device_XX__ as the device under __Device ID__ , where XX is your assigned two-digit ID.  e.g. Device_02, Device_18.
    - Click the play button.
    
    You can move the slider to increase and decrease the value of the reading but keep it under 80 for now. The simulated values will start populating the screen.
