@@ -8,7 +8,7 @@ After completing these steps you will have created an edge designer project.
 
 1. Log onto SAP Edge Services - Policy Service 
    
-   Open the following URL and log in using the __user name__ (email address) and __password__ you've written down from Exercise 0
+   Open the following URL and log in using the __user name__ (email address) and __password you've written down from Exercise 0__
    
    URL: https://iot-iottrainingdev-709f.edge-demo.cfapps.eu10.hana.ondemand.com/
 <br>![](/exercises/ex1/images/Ex1_Step1_1.png)
