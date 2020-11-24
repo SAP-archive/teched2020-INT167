@@ -1,4 +1,4 @@
-# Exercise 0 - Get Your Participant ID and Edge Services Access Credential for the Exercise
+# Exercise 0 - Get Your Participant ID and Edge Services Access Credential
 
 1.	Open the Participant ID generator program via the following URL
 
