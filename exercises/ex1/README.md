@@ -23,7 +23,7 @@ After completing these steps you will have created an edge designer project.
 
 4. Enter the following details in the next screen, and click Create.
    
-   Note: Throughout the exercise, __YOU MUST REPLACE XX__ with __YOUR OWN TWO DIGIT ID__<br>
+   Note: Throughout the exercise, __YOU MUST REPLACE XX__ with __your own two-digit Participant ID__<br>
    - Name: __TechEdXX__
    - Description: __TechEdXX__
    - Profile Delimiter: __>>>__
@@ -168,7 +168,7 @@ First go back to your project.
 Then click __Validate__ on the top-right.
 <br>![](/exercises/ex1/images/Ex1_Step7_2.png)   
 
-Once successfully validated, click __Publish__ on top right to publish the project with a configuration name that you can later find, for instance __TechEdXX-V1__, __where XX is your assigned two-digit ID__.
+Once successfully validated, click __Publish__ on top right to publish the project with a configuration name that you can later find, for instance __TechEdXX-V1__, __where XX is your assigned two-digit participant ID__.
 <br>![](/exercises/ex1/images/Ex1_Step7_3.png)     
 
 ## Summary
