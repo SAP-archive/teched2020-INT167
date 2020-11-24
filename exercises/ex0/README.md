@@ -12,11 +12,12 @@ In this exercise, you will get your own two-digit ID, which you will be using th
 
 3. You should see a pop up window, containing a) Your __participant id__, and b) the user __user name__ and __password__ 
 
-   Make sure to WRITE DOWN your two digit __participant id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
+   Make sure to __WRITE DOWN__ your two digit __participant id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ```
-Please note that if you see message "Maximum capacity for system resource has been reached..", that means we've already had more particiapnts than the number of edge gateways available.
+Please note that if you see message "Maximum capacity for system resource has been reached..", that means we
+have already had more particiapnts than the number of edge gateways available.
 ```
 
 ## Summary
