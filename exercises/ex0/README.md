@@ -1,6 +1,4 @@
-# Exercise 0 - Get Your Participant ID for the Exercise
-
-In this exercise, you will get your own two-digit ID, which you will be using throughout the rest of the exercises
+# Exercise 0 - Get Your Participant ID and Edge Services Access Credential for the Exercise
 
 1.	Open the Participant ID generator program via the following URL
 
@@ -12,7 +10,7 @@ In this exercise, you will get your own two-digit ID, which you will be using th
 
 3. You should see a pop up window, containing a) Your __participant Id__, and b) the user __user name__ and __password__ 
 
-   Make sure to __WRITE DOWN__ your two digit __participant Id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
+   Please make sure to __WRITE DOWN__ your two digit __participant Id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ```
