@@ -10,9 +10,9 @@ In this exercise, you will get your own two-digit ID, which you will be using th
 2.	Enter a nickname for yourself in __user name__ field, and then press the button __Get ID__
 <br>![](/exercises/ex0/images/Ex0_1.png)
 
-3. You should see a pop up window, containing a) Your __participant id__, and b) the user __user name__ and __password__ 
+3. You should see a pop up window, containing a) Your __participant Id__, and b) the user __user name__ and __password__ 
 
-   Make sure to __WRITE DOWN__ your two digit __participant id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
+   Make sure to __WRITE DOWN__ your two digit __participant Id__, which you will be using THROUGHOUT the rest of the exericise, as well as the __user name__ and __password__, which you will be using to access SAP Edge Services - Policy Service in Exercise #1 
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ```
@@ -22,5 +22,5 @@ have already had more particiapnts than the number of edge gateways available.
 
 ## Summary
 
-Now that you have your own two-digit participant ID, and the user name/password to access Edge Services - Policy Service.
+Now that you have your own two-digit participant Id, and the user name/password to access Edge Services - Policy Service.
 Continue to - [Exercise 1 - Configure SAP Edge Services](../ex1/README.md)
