@@ -1,8 +1,8 @@
-# Level 1 Heading
+# Exercise 0 - Get Your ID for the Exercise
 
-In this exercise, you will...
+In this exercise, you will get your own two-digit ID, which you will be using throughout the rest of the exercises
 
-## Level 2 Heading
+## Step 0.1 Get Your ID and Credential to Access Edge Services - Policy Service
 
 After completing these steps you will have....
 
