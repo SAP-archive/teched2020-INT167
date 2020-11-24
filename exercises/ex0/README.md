@@ -4,7 +4,7 @@ In this exercise, you will get your own two-digit ID, which you will be using th
 
 1.	Open the Participant ID generator program via the following URL
 
-   URL: http://18.158.166.75:8080/index.html
+      URL: http://18.158.166.75:8080/index.html
 
 
 2.	Enter a nickname for yourself in __user name__ field, and then press the button __Get ID__
