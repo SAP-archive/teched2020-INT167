@@ -7,7 +7,9 @@ In Exercise 1, we will create a SAP Edge Services project.  A project is an aggr
 After completing these steps you will have created an edge designer project.
 
 1. Log onto SAP Edge Services - Policy Service 
+   
    Open the following URL and log in using the user name (email address) and password you get from Exercise 0
+   
    URL: https://iot-iottrainingdev-709f.edge-demo.cfapps.eu10.hana.ondemand.com/
 <br>![](/exercises/ex1/images/Ex1_Step1_1.png)
 
