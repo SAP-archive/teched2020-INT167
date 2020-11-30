@@ -14,8 +14,9 @@
 <br>![](/exercises/ex0/images/Ex0_2.png)
 
 ```
-Please note that if you see message "Maximum capacity for system resource has been reached..", that means we
-have already had more particiapnts than the number of edge gateways available.
+Please note that if you see message "Maximum capacity for system resource has been reached..", we
+have already reached the maximum number of edge gateways available, which means you won't abe to 
+continue with the exercises at this time
 ```
 
 ## Summary
