@@ -15,7 +15,7 @@ After completing these steps you will have created an edge designer project.
 
    Note: After logon you will land on the main SAP Edge services screen.
 
-2. Click the Edge Designer tile.
+2. Click the __Edge Designer__ tile.
 <br>![](/exercises/ex1/images/Ex1_Step1_2.png)
 
 3. Click __+__ to add a new project.
