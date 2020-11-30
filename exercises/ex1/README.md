@@ -136,8 +136,10 @@ After completing these steps you will connect your gateway to a central edge gat
    - Port: __9443__
    - Authentication (Base64): __RUJFRjpJbml0aWFs__
    - Validate Certificates	: __Unchecked__
-   
+
+```
    The last 4 values will only be display if you __Enable EBF Configurations__.
+```
 <br>![](/exercises/ex1/images/Ex1_Step5_2_2.png)
 
    Your screen should look like this now.
