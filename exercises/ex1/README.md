@@ -69,7 +69,7 @@ After completing these steps you will have defined an action that will trigger t
 1. Select __Actions__, and then click __+__ to the right.
 <br>![](/exercises/ex1/images/Ex1_Step3_1.png)   
 
-2. Enter the following values for your action, and then click __Save__.
+2. Enter the following values for your action, and then click __Create__.
    
    - Action Name: __Create Work Order__
    - Description: __Create Work Order__
