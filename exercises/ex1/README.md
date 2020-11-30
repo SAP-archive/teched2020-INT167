@@ -138,7 +138,7 @@ After completing these steps you will connect your gateway to a central edge gat
    - Validate Certificates	: __Unchecked__
 
 ```
-   The last 4 values will only be display if you __Enable EBF Configurations__.
+   The last 4 values will only be display if you Enable EBF Configurations!
 ```
 <br>![](/exercises/ex1/images/Ex1_Step5_2_2.png)
 
