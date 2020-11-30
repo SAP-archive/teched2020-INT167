@@ -103,7 +103,7 @@ After completing these steps you will have defined a rule that will trigger the 
 <br>![](/exercises/ex1/images/Ex1_Step4_5.png)
 
 6. Add the following values to the condition, and then click __Create__.
-   - Name: __temperature over 80__
+   - Name: __Temperature over 80__
    - Filter: __Any__
    - Condition Type: __Value monitoring__
    - Data Model Name: __Boiler>>>BoilerTraining>>>Temperature__
