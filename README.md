@@ -12,7 +12,7 @@ This session introduces attendees to SAP Edge Services, which brings together lo
   - Devices and sensors produce more data than what can be (economically) transmitted to the cloud
   - Devices and sensors are in locations with intermittent connectivity, or restricted/costly bandwidth 
   - Decisions based on sensor data have to be made in real-time, i.e. crane collision detection and reaction can not wait for round trip latency to the Cloud
-<br>![](/exercises/ex0/images/Ex0_1.png)  
+<br>![](/exercises/ex0/images/Overview_1.png)  
  
 - SAP Edge Services - Solution Capabilities:
   - SAP Edge Services enables powerful microservices to be deployed at the edge but orchestrated from the cloud to extend the processing power of the cloud to an edge location.   
@@ -22,7 +22,7 @@ This session introduces attendees to SAP Edge Services, which brings together lo
     - __Essential Business Functions Service__, which provides business context (data and processes) at the edge despite challenges of connectivity, latency or bandwidth.
     - __Persistence Service__, which provides local storage of IoT data on IoT gateways
     - __Custom Edge Services__, e.g. Predictive Analytics Service, which can be deployed and executed at the edge gateway
-<br>![](/exercises/ex0/images/Ex0_2.png)
+<br>![](/exercises/ex0/images/Overview_2.png)
 
 ## Requirements
 
