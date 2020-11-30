@@ -124,7 +124,7 @@ After completing these steps you will have defined a rule that will trigger the 
 
 After completing these steps you will connect your gateway to a central edge gateway (EBF service), which is configured to create the work order in S/4HANA.
 
-1. Select your project from the navigation.
+1. Select your project __TechEdXX (where XX is your two-digit participant ID)__ from the navigation.
 <br>![](/exercises/ex1/images/Ex1_Step5_1.png)
 
 2. Click __Runtime Settings__, and then click the pencil icon.
