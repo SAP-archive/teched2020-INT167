@@ -6,12 +6,12 @@ In this exercise, we will deploy and test an SAP Edge Services project, with str
 
 After completing these steps you will have deployed the project you've just created to your Edge Gateway
 
-1. Log onto SAP Edge Services.
+1. Go to the Fiori Launch Pad for SAP Edge Services, and then click tile __SAP Edge Services Management__
 
-   After logon, you will land on the main SAP Edge Services screen.
+```
+   If you haven't logged onto SAP Edge Services, then follow step 1.1/1 in exercise #1 to log on first
+```   
    
-   Click on __SAP Edge Services Management__.
-
 <br>![](/exercises/ex2/images/Ex2_Step1_1.png)
 
 2. Select the gateway where you want to deploy your project (__Gateway XX, where XX is your assigned two-digit ID__ ).
