@@ -1,5 +1,7 @@
 # INT167 - Implement and Run Business Scenarios at the Edge Using SAP Edge Service
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-INT167)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-INT167)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session 1243 - Implement and Run Business Scenarios at the Edge Using SAP Edge Services.  
